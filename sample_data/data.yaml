@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['racing-horse']
+
+roboflow:
+  workspace: ashmita-kamath131207-gmail-com
+  project: ict320-y12-horseracing-dataset-b7ipi-ofr6d
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ashmita-kamath131207-gmail-com/ict320-y12-horseracing-dataset-b7ipi-ofr6d/dataset/1
