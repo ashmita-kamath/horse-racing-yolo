@@ -1,0 +1,9 @@
+venv/
+runs/
+ICT320-Y12-HorseRacing-dataset-1/
+paddock_frames/
+*.mov
+*.mp4
+*.pt
+__pycache__/
+.DS_Store
